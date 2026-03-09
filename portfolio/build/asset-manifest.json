@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.9175d66c.css",
+    "main.js": "/static/js/main.f7c54bae.js",
+    "static/js/453.635f5f07.chunk.js": "/static/js/453.635f5f07.chunk.js",
+    "static/media/Aravind.jpg": "/static/media/Aravind.11570cbb4b8d0f29e6a2.jpg",
+    "static/media/hi.png": "/static/media/hi.f97a0ea298f38adac4b4.png",
+    "index.html": "/index.html",
+    "main.9175d66c.css.map": "/static/css/main.9175d66c.css.map",
+    "main.f7c54bae.js.map": "/static/js/main.f7c54bae.js.map",
+    "453.635f5f07.chunk.js.map": "/static/js/453.635f5f07.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9175d66c.css",
+    "static/js/main.f7c54bae.js"
+  ]
+}
