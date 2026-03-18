@@ -4,7 +4,7 @@ A personalized, responsive portfolio website showcasing skills, projects, and pr
 
 ## ✅ Deployment Status
 
-- **🌐 Live Website:** [View Deployed Portfolio](https://your-portfolio.netlify.app)
+- **🌐 Live Website:** [View Deployed Portfolio](https://newportfolioupdated.netlify.app/)
 - **Status:** ✅ Successfully Deployed on Netlify
 - **Repository Type:** Production Build Only (Source code not included)
 
@@ -58,7 +58,7 @@ portfolio/
 ## 🏗 How to View Locally
 
 ### Option 1: View Deployed Version (Recommended)
-Simply visit: **[Your Netlify URL](https://your-portfolio.netlify.app)**
+Simply visit: **[https://newportfolioupdated.netlify.app/](https://newportfolioupdated.netlify.app/)**
 
 ### Option 2: Run Local Server
 ```bash
